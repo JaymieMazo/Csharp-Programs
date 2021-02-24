@@ -1,0 +1,13 @@
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\bin\Debug\testProject.exe.config
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\bin\Debug\testProject.exe
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\bin\Debug\testProject.pdb
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.csprojResolveAssemblyReference.cache
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.allForms.Login.resources
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.Form1.resources
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.Properties.Resources.resources
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.test2.resources
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.csproj.GenerateResource.Cache
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.exe
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.pdb
+c:\users\smd084\documents\visual studio 2013\Projects\testProject\testProject\obj\Debug\testProject.allForms.MainForm.resources
+C:\Users\smd084\Documents\Visual Studio 2013\Projects\testProject\testProject\obj\Debug\testProject.allForms.frmEmployees.resources
